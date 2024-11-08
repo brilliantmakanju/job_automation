@@ -141,3 +141,5 @@ def automate_form(driver, input_details):
 
 # Run the automation
 automate_form(driver, input_details)
+
+
